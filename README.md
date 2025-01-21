@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey, I´m Alice
+
+Welcome to my GitHub profile! I´m currently a tech student in Oracle's <Hello, One!> program with Alura. Currently learning Javascript, HTML and CSS. 
+
 
 <!--
 **alicemacias13/alicemacias13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
