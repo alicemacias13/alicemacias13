@@ -18,6 +18,15 @@ Bem vindo(a) ao meu perfil no Github! Atualmente eu sou uma estudante do program
   <a href = "mailto:alicemacias13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
 </div>
 
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicemacias13&layout=compact&langs_count=6&theme=radical)
+
+---
+
+## 🔧 Status do GitHub
+![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicemacias13&show_icons=true&theme=radical)
+
+---
 
 
 <!--
